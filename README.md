@@ -26,10 +26,10 @@ This repository serves as a central hub for my featured projects, technical skil
 ## 🎯 Interests
 
 - 🧠 Machine Learning & AI Ethics – exploring real-world applications and responsible innovation  
-- 🕵️‍♂️ Cybersecurity – diving into CIS compliance and threat mitigation  
+- 🕵️‍♂️ Cybersecurity – Earned ISC2 CC certification and Comptia Sec+ 
 - 🏫 Student Club Leadership – led initiatives, organized events, and managed fundraising efforts as part of school organizations
-- 📚 Lifelong Learning – currently studying for the ISC2 CC certification
 - 🌍 Scouting & Leadership – shaped by experiences in outdoor leadership, team-building, and service-oriented growth  
+<!-- - 📚 Lifelong Learning – currently studying for the ISC2 CC certification-->
 
 ---
 
